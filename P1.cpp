@@ -24,3 +24,5 @@ int main()
 	printf("\n\n\n approximate root = %.4f\n\n",c);
 	return 0;
 }
+}
+
